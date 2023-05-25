@@ -6,5 +6,6 @@
  dotnet ef database update
  
  REACT
+ 
  npm install
  npm run start
